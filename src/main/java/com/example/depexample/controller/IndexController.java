@@ -12,6 +12,6 @@ public class IndexController {
 
     @GetMapping("/")
     public String index() {
-        return "ver_1";
+        return "ver_2";
     }
 }
